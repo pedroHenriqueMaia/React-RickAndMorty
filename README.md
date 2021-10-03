@@ -9,6 +9,6 @@ $ npm start
 ```
 <br>
 <img style=" display: block;
-    margin-left: auto;
+    margin-left: 50px;;
     margin-right: auto;" 
     src="./src/compnents/icone/rickandmorty.png" />
