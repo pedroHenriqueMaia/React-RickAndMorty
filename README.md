@@ -1,1 +1,1 @@
-![] (./src/compnents/icone/rickandmorty.png)
+![](./src/compnents/icone/rickandmorty.png)
