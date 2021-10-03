@@ -1,1 +1,1 @@
-<img style="text-align:center" src="./src/compnents/icone/rickandmorty.png" />
+<img style="align:center" src="./src/compnents/icone/rickandmorty.png" />
