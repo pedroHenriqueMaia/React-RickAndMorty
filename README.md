@@ -8,7 +8,4 @@ $ npm install
 $ npm start
 ```
 <br>
-<img style=" display: block;
-    margin-left: 1000px;
-    margin-right: auto;" 
-    src="./src/compnents/icone/rickandmorty.png" />
+<img src="./src/compnents/icone/rickandmorty.png" />
